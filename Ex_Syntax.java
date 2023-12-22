@@ -4,5 +4,6 @@ public class Ex_Syntax {
         System.out.println("Hello");
         System.out.println("Hello02");
         System.out.println("Hello03");
+        System.out.println("มากับอีกไฟล๋");
     }
 }
